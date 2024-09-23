@@ -2,6 +2,8 @@ NewOlosko23 <br>
 Olosko23 account locked. <br>
 Let's connect:
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Olosko23&label=Profile%20views&color=0e75b6&style=flat" alt="olosko23" /> </p>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/collins-oloo-2646bb1a6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
