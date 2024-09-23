@@ -1,5 +1,5 @@
-NewOlosko23
-Olosko23 account locked.
+NewOlosko23 <br>
+Olosko23 account locked. <br>
 Let's connect:
 
 <div id="badges">
