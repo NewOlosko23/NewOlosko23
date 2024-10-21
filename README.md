@@ -1,6 +1,6 @@
 NewOlosko23 <br>
 Olosko23 account locked. <br>
-Let's connect:
+Let's connect:.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Olosko23&label=Profile%20views&color=0e75b6&style=flat" alt="olosko23" /> </p>
 
