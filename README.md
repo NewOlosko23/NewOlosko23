@@ -37,3 +37,6 @@ Let's connect:.
 
     
 </div>
+
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NewOlosko23&show_icons=true&locale=en&layout=compact" alt="olosko23" /></p><br>
+
