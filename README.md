@@ -1,8 +1,3 @@
-
-README.md
-
-
-
 <h1 align="center">👋 Hi, I'm Collins Oloo</h1>
 <p align="center">
   <em>Full-Stack Developer | Building Scalable Web & Mobile Solutions</em>
@@ -11,7 +6,7 @@ README.md
   <img src="https://komarev.com/ghpvc/?username=NewOlosko23&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 ---
-### 🚀 About Me
+About Me
 I'm a passionate developer focused on crafting **performant, scalable applications** with clean architecture and thoughtful implementation. I specialize in building modern web and mobile solutions that prioritize user experience and code quality.
 - 🔭 Currently working on innovative projects using **React**, **Next.js**, and **Node.js**
 - 🌱 Continuously learning and exploring new technologies
@@ -19,7 +14,7 @@ I'm a passionate developer focused on crafting **performant, scalable applicatio
 - 🎯 Goal: Build solutions that make a real impact
 > **Note:** My previous account (Olosko23) was locked, so I've moved to **NewOlosko23**
 ---
-### 🤝 Let's Connect
+🤝 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/collins-oloo-2646bb1a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -31,8 +26,8 @@ I'm a passionate developer focused on crafting **performant, scalable applicatio
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
----
-### 🛠️ Tech Stack
+
+🛠️ Tech Stack
 **Frontend Development**
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -66,7 +61,7 @@ I'm a passionate developer focused on crafting **performant, scalable applicatio
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NewOlosko23&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 ---
-### 💼 What I Do
+ 💼 What I Do
 ```javascript
 const collins = {
   code: ["JavaScript", "HTML/CSS", "Node.js"],
@@ -78,14 +73,12 @@ const collins = {
   architecture: ["Single Page Applications", "REST APIs", "Microservices"],
   currentFocus: "Building scalable and performant full-stack applications"
 };
-```
----
-### 🎯 Current Focus
+
+ 🎯 Current Focus
 - 🔨 Building robust web and mobile applications
 - 📚 Deepening knowledge in system design and architecture
 - 🌐 Contributing to open-source projects
 - 🤝 Collaborating with other developers
----
 <p align="center">
   <em>💻 "Code is like humor. When you have to explain it, it's bad." - Cory House</em>
 </p>
