@@ -11,7 +11,7 @@ I'm a passionate developer focused on crafting **performant, scalable applicatio
 - 🌱 Continuously learning and exploring new technologies
 - 💡 Strong believer in clean code and best practices
 - 🎯 Goal: Build solutions that make a real impact
-> **Note:** My previous account (Olosko23) was locked, so I've moved to **NewOlosko23**
+ **Note:** My previous account (Olosko23) was locked, so I've moved to **NewOlosko23**
 ## 🤝 Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/collins-oloo-2646bb1a6/">
