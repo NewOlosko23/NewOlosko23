@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Collins Oloo
 
-**Full-Stack Developer**  
-Building scalable web and mobile solutions
+**Full-Stack & Mobile Developer**  
+Building scalable, production-ready web and mobile applications
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NewOlosko23&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -9,45 +9,62 @@ Building scalable web and mobile solutions
 
 ## About Me
 
-I am a full-stack developer focused on crafting **performant, scalable applications** with clean architecture and thoughtful implementation. I specialize in modern web and mobile solutions that prioritize user experience and maintainability.
+I am a full-stack developer with a strong focus on **scalable system design**, **modern frontend and mobile experiences**, and **reliable backend services**. I build applications with long-term maintainability in mind, balancing performance, developer experience, and business requirements.
 
-- 🔭 Working with **React**, **Next.js**, and **Node.js**
-- 🌱 Continuously learning and improving system design skills
-- 💡 Strong advocate for clean code and best practices
-- 🎯 Goal: Build solutions that create measurable impact
+My work spans web, mobile, APIs, and background systems, with hands-on experience using **SQL and NoSQL databases**, **state management**, **caching**, and **asynchronous processing**.
 
-> **Note:** My previous account (**Olosko23**) was locked. I am now active on **NewOlosko23**.
+- 🔭 Building web and mobile applications using **React**, **Next.js**, and **React Native (Expo)**
+- ⚙️ Designing backend services with **Node.js**, **Express**, and modern data layers
+- 🧠 Applying clean architecture, scalable patterns, and pragmatic engineering practices
+- 🎯 Goal: Deliver reliable, high-impact software that scales with real-world usage
 
----
-
-## 🤝 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/collins-oloo-2646bb1a6/)
-- [WhatsApp](https://wa.me/254799590711)
-- [Twitter / X](https://twitter.com/olos_ko_lins)
+> **Note:** My previous GitHub account (**Olosko23**) was locked. I am currently active on **NewOlosko23**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Competencies
 
-### Frontend
-- React
-- Next.js
-- Redux
-- Material UI
-- Tailwind CSS
-- HTML5 / CSS3
-- JavaScript (ES6+)
+### Frontend & Mobile Engineering
+- **React** – Component architecture, hooks, performance optimization
+- **Next.js** – SSR, SSG, routing, SEO optimization, production-ready builds
+- **Vite** – Fast development tooling and optimized build pipelines
+- **Zustand** – Lightweight and scalable client-side state management
+- **React Native** – Cross-platform mobile application development
+- **Expo** – Rapid mobile development, native APIs, build and deployment workflows
+- **Browser Extensions** – Development of custom browser extensions for workflow automation and productivity
 
-### Backend
-- Node.js
-- Express.js
-- MongoDB
+### Backend & API Development
+- **Node.js** – Scalable backend services and asynchronous processing
+- **Express.js** – RESTful API design, middleware pipelines, authentication
+- **PostgreSQL (Neon)** – Relational data modeling, transactions, production-ready SQL workloads
+- **MongoDB** – NoSQL document-based data storage and flexible schemas
+- **Prisma ORM** – Type-safe database access across SQL and NoSQL databases
+- **Redis** – Caching, session storage, and performance optimization
+- **BullMQ** – Background jobs, queues, and task scheduling
 
-### Tools & DevOps
-- Git
-- Webpack
-- Nginx
+### Messaging & Event Processing (Working Knowledge)
+- **Kafka** – Distributed event streaming concepts and use cases
+- **RabbitMQ** – Message queues, pub/sub patterns, and asynchronous workflows
+
+### Architecture & System Design
+- RESTful API design
+- Single Page Applications (SPAs)
+- Scalable and modular service architecture
+- SQL and NoSQL data strategies
+- Background processing and asynchronous systems
+
+### Tooling, DevOps & Developer Experience
+- **Git** – Version control, collaborative workflows, branching strategies
+- **Nginx** – Reverse proxy, load balancing, production deployments
+- **Postman** – API testing, documentation, and integration validation
+- **Webpack** – Bundling and optimization for complex or legacy builds
+- **Environment Management** – Secure configuration for development and production
+
+### Engineering Practices
+- Clean, maintainable, and testable codebases
+- Performance optimization and caching strategies
+- Reusable component and service design
+- Cross-functional collaboration and technical ownership
 
 ---
 
@@ -57,20 +74,4 @@ I am a full-stack developer focused on crafting **performant, scalable applicati
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=NewOlosko23&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NewOlosko23&theme=radical&hide_border=true)
-
 ---
-
-## 💼 What I Do
-
-```javascript
-const collins = {
-  code: ["JavaScript", "HTML", "CSS", "Node.js"],
-  technologies: {
-    frontend: ["React", "Next.js", "Redux", "Material UI", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "MongoDB"],
-    tools: ["Git", "Webpack", "Nginx"]
-  },
-  architecture: ["SPAs", "REST APIs", "Microservices"],
-  currentFocus: "Scalable and performant full-stack applications"
-};
