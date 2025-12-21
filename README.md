@@ -40,7 +40,7 @@ My work spans web, mobile, APIs, and background systems, with hands-on experienc
 - **MongoDB** – NoSQL document-based data storage and flexible schemas
 - **Prisma ORM** – Type-safe database access across SQL and NoSQL databases
 - **Redis** – Caching, session storage, and performance optimization
-- **BullMQ** – Background jobs, queues, and task scheduling
+- **BullMQ** – Background jobs, queues, and task scheduling.
 
 ### Messaging & Event Processing (Working Knowledge)
 - **Kafka** – Distributed event streaming concepts and use cases
