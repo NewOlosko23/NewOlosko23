@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Collins Oloo
 
-**Full-Stack Web & Mobile Dev** 
+**Full-Stack Web & Mobile Developer** 
 
 
 Crafting reliable, scalable web and mobile products
