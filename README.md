@@ -11,7 +11,7 @@ Crafting reliable, scalable web and mobile products
 
 ## About Me
 
-I am a full-stack developer with a strong focus on **scalable system design**, **modern frontend and mobile experiences**, and **reliable backend services**. I build applications with long-term maintainability in mind, balancing performance, developer experience, and business requirements.
+I am a fullstack developer with a strong focus on **scalable system design**, **modern frontend and mobile experiences**, and **reliable backend services**. I build applications with long-term maintainability in mind, balancing performance, developer experience, and business requirements.
 
 My work spans web, mobile, APIs, and background systems, with hands-on experience using **SQL and NoSQL databases**, **state management**, **caching**, and **asynchronous processing**.
 
